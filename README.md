@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Rasool Safari
 
-I'm a Site Reliability Engineer (SRE) with over 7 years of edxperience in automating and optimizing large-scale infrastructure.  
+I'm a Site Reliability Engineer (SRE) with over 7 years of experience in automating and optimizing large-scale infrastructure.  
 Proficient in Linux, Kubernetes, Ansible, Terraform, and Python, with a focus on enhancing system reliability and scalability.  
 Adept at implementing eﬃcient CI/CD pipelines and improving infrastructure through automation and best practices.
 
