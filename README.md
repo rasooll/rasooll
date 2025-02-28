@@ -35,6 +35,6 @@ Adept at implementing eﬃcient CI/CD pipelines and improving infrastructure thr
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasoolsf/)
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:safari.rasool@proton.me)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rasooll)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rasooll)
+[![Medium](https://img.shields.io/badge/Medium-fafbfc?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@rasooll)
 
 I'm always open to collaborations, discussions about technical topics, and new opportunities. Feel free to reach out!
